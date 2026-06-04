@@ -12,15 +12,7 @@
 
 I'm a passionate **Software Engineer** with **3 years of experience** building scalable, high-performance applications. I love turning complex problems into clean, elegant solutions.
 
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Always learning new technologies and best practices
-- 📝 I write articles on **Medium** and create content on **YouTube** & **Instagram**
-- 💬 Ask me about web development, system design, and software engineering
-- ⚡ Fun fact: I debug code in my dreams!
-- 🎯 Goal: Contributing to open source and building products that matter
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
