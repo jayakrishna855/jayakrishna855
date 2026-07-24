@@ -12,7 +12,7 @@
 
 I'm a passionate **Software Engineer** with **3 years of experience** building scalable, high-performance applications. I love turning complex problems into clean, elegant solutions.
 
-**Currently diving deep into**: LLMs, RAG, and AI Agents.
+**Currently diving deep into**: Agentic AI and LLM Inference Optimisation.
 
 ---
 ## 🛠️ Tech Stack
